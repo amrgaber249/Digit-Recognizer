@@ -1,5 +1,5 @@
-**# Digit-Recognizer**
-Trying different ML algorithms on the famous MNIST data.
+**# Digit-Recognizer** <br>
+Trying different ML algorithms on the famous MNIST data.<br>
 
-Competition Link [Kaggle post](https://www.kaggle.com/c/digit-recognizer/overview).
-Reference to how to achieve different accuracies [Kaggle post](https://www.kaggle.com/c/digit-recognizer/discussion/61480#latest-634734).
+[Competition Link](https://www.kaggle.com/c/digit-recognizer/overview).<br>
+Helpful link on how to achieve different[Accuracies](https://www.kaggle.com/c/digit-recognizer/discussion/61480#latest-634734).
